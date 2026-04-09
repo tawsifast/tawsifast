@@ -38,9 +38,18 @@ Here are some of my projects:
 
 ## 📊 GitHub Stats
 
-![Tawsif's GitHub stats](https://github-readme-stats.vercel.app/api?username=tawsifast\&show_icons=true\&theme=tokyonight)
+## 📊 GitHub Stats
 
----
+<p align="center">
+ 
+  <img src="https://streak-stats.demolab.com?user=tawsifast&theme=tokyonight" />
+</p>
+
+<p align="center">
+
+</p>
+
+
 
 ## 📫 Connect With Me
 
