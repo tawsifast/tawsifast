@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1500&h=250&q=80" width="100%" />
+</p>
 # 👋 Hi there, I'm **Tawsif Islam**
 
 <div align="center">
@@ -11,7 +14,7 @@
 <div align="center">
   
   ### 📈 Overall GitHub Stats
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tawsifast&theme=tokyonight&show_icons=true&hide_border=true&border_radius=15&include_all_commits=true&count_private=true&bg_color=1a1b26&title_color=00d9ff&icon_color=00d9ff)
+  ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tawsifast&show_icons=true&theme=tokyonight)
   
 </div>
 
@@ -23,9 +26,10 @@
 </div>
 
 <div align="center">
-  
-  ### 🏆 Most Used Languages
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tawsifast&theme=tokyonight&layout=compact&hide_border=true&border_radius=15&langs_count=10&bg_color=1a1b26&title_color=00d9ff)
+
+<h3>🏆 Most Used Languages</h3>
+
+![Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tawsifast&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -179,20 +183,29 @@ Modern online shopping platform where users can browse products, view details, a
 
 <div align="center">
   
-  <a href="mailto:0070tawsif@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+<a href="mailto:yourmail@gmail.com">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="40" width="50" />
+</a>
   </a>
-  <a href="https://github.com/tawsifast">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://github.com/tawsifast" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="50" />
   </a>
-  <a href="https://linkedin.com/in/tawsifast">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://www.linkedin.com/in/tawsif-islam" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
   </a>
-  <a href="https://twitter.com/tawsifast">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://twitter.com/tawsifast" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="50" />
   </a>
-  <a href="https://tawsifast.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  
+  <a href="https://tawsifast.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Portfolio" height="40" width="50" />
   </a>
 
 </div>
