@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1500&h=250&q=80" width="100%" />
 </p>
-# 👋 Hi there, I'm **Tawsif Islam**
+👋 Hi there, I'm Tawsif Islam
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;JavaScript+Enthusiast;React+%26+Next.js+Expert;Building+Modern+Web+Apps" alt="Typing SVG" />
