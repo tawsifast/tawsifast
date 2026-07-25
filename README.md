@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=1500&h=250&q=80" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=260&section=header&text=MD%20Tawsiful%20Islam&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Developer&descAlignY=60&descSize=20" width="100%" />
 </p>
+<p align="center">
 👋 Hi there, I'm Tawsif Islam
-
+</p>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;JavaScript+Enthusiast;React+%26+Next.js+Expert;Building+Modern+Web+Apps" alt="Typing SVG" />
 </div>
