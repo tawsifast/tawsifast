@@ -235,6 +235,6 @@ Modern online shopping platform where users can browse products, view details, a
 
 <div align="center">
   
-  *Made with ❤️ by Tawsif Islam*
+  Made with ❤️ by Tawsif Islam
   
 </div>
