@@ -13,27 +13,20 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-  ### 📈 Overall GitHub Stats
-  ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tawsifast&show_icons=true&theme=tokyonight)
-  
+  <h3>📈 Overall GitHub Stats</h3>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tawsifast&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&icon_color=818cf8&count_private=true" />
 </div>
 
 <div align="center">
   
   ### 🔥 GitHub Streak
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tawsifast&theme=tokyonight&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&background=1a1b26&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff)
-  
+![GitHub Streak](https://streak-stats.demolab.com/?user=tawsifast&theme=tokyonight&hide_border=true&background=0d0d1a&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa)
 </div>
 
 <div align="center">
-
-<h3>🏆 Most Used Languages</h3>
-
-![Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tawsifast&layout=compact&theme=tokyonight)
-
+  <h3>🏆 Most Used Languages</h3>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tawsifast&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&langs_count=8" />
 </div>
-
 ---
 
 ## 🎯 About Me
