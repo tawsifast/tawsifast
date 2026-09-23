@@ -142,24 +142,26 @@
 
 ## 🚀 Featured Projects
 
-### **Drive Fleet** – Car Rental Platform
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/tawsifast/Assignment-9-client)
-[![Live](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://assignment-9-client-zeta.vercel.app/)
+### **NexusHome** – Rental Platform
 
-Full-stack car rental platform with optimized vehicle search and instant booking. Resolved critical search filtering bottleneck using MongoDB aggregation, reducing query time by 70%.
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square\&logo=github)](https://github.com/tawsifast/NexusHome)
+[![Live](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://nexushome-phi.vercel.app)
 
-**Tech:** Next.js • React • Node.js • Express • MongoDB • TailwindCSS
+A full-stack rental platform for tenants and property owners with role-based dashboards, property management, bookings, authentication, and payments.
 
----
-
-### **ShopHub** – E-Commerce Platform
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/tawsifast)
-
-Modern online shopping platform where users can browse products, view details, and make purchases with seamless checkout experience.
-
-**Tech:** Next.js • React • Node.js • Express • MongoDB • TailwindCSS
+**Tech:** Next.js • React • Better Auth • MongoDB • Stripe • TailwindCSS
 
 ---
+
+### **Marketa** – Multi-Vendor E-Commerce Platform
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square\&logo=github)](https://github.com/tawsifast/Marketa)
+[![Live](https://img.shields.io/badge/Live-Demo-00D9FF?style=flat-square)](https://marketa-seven.vercel.app)
+
+A full-stack multi-vendor e-commerce platform with buyer, seller, and admin dashboards, product management, orders, authentication, and checkout.
+
+**Tech:** Next.js • React • Node.js • Express • MongoDB • JWT • Stripe
+
 
 ## 💡 What I'm Learning
 
